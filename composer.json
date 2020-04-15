@@ -1,8 +1,8 @@
 {
-  "name": "webanatorly/pager",
+  "name": "webanatorly/pagination",
   "description": "A library to split results into multiple pages",
   "keywords": ["pager", "paginator", "pagination"],
-  "homepage": "https://github.com/webanatoly/php/pager",
+  "homepage": "https://github.com/webAnatoly/pagination",
   "license": "MIT",
   "authors": [
     {
