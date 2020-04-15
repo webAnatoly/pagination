@@ -1,0 +1,24 @@
+{
+  "name": "webanatorly/pager",
+  "description": "A library to split results into multiple pages",
+  "keywords": ["pager", "paginator", "pagination"],
+  "homepage": "https://github.com/webanatoly/php/pager",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Anatoly Demianov",
+      "email": "tolik.demianov@gmail.com"
+    }
+  ],
+  "support": {
+    "email": "tolik.demianov@gmail.com"
+  },
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Pagination\\": "src/"
+    }
+  }
+}
